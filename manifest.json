@@ -1,9 +1,9 @@
 {
- "background_color": "#FFFFFF",
+ "background_color": "#F6F4F6",
  "name": "The Diamond city",
  "description": "Thành phố giao hoà",
  "start_url": "index.htm",
- "theme_color": "#FFFFFF",
+ "theme_color": "#F6F4F6",
  "display": "fullscreen",
  "icons": [
   {
